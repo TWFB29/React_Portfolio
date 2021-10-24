@@ -10,8 +10,8 @@ function ProjectTemplate(props) {
         <Card.Body>
           <Card.Text>
             <p>{props.name}</p>
-              <a href={props.liveLink} variant="outline-light" className="m-2">Demo</a>
-              <a href={props.githubRepo} variant="outline-light" className="m-2">Github</a>
+              <a href={props.deploy} variant="outline-light" className="m-2">Demo</a>
+              <a href={props.githubPages} variant="outline-light" className="m-2">Github</a>
           </Card.Text>
         </Card.Body>
       </Card>

@@ -9,7 +9,7 @@ function Portfolio() {
   return (
     <Container className="PortfolioTab">
         <Row>
-          <h1>My Projects</h1>
+          <h1>Weekly Assignments</h1>
         </Row>
 
         {Array.from({ length: 1 }).map((_, idx) => (
@@ -18,9 +18,9 @@ function Portfolio() {
               <ProjectTemplate
                 name={project.name}
                 image={project.image}
-                liveLink={project.liveLink}
-                githubRepo={project.githubRepo}
-                techUsed={project.techUsed}
+                deploy={project.deploy}
+                githubPages={project.githubPages}
+                
               />
             ))}
           </Row>

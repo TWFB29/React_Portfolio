@@ -12,7 +12,7 @@ const Navigation = (props) => {
       <Row>
         <Navbar bg="dark" variant="dark">
           <Container>
-            <Navbar.Brand href="#home">Mariah Eckrich</Navbar.Brand>
+            <Navbar.Brand href="#home">Taylor Black</Navbar.Brand>
 
             <Nav className="me-auto">
               {tabs.map(tab => (

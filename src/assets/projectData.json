@@ -1,44 +1,44 @@
 [
     {
-      "name": "Binge Bucket",
-      "image": "front-page.PNG",
-      "liveLink": "https://whispering-everglades-56821.herokuapp.com/",
-      "githubRepo": "https://github.com/meck512/BingeBucket",
-      "technologies": "https://github.com/meck512/BingeBucket"
+      "name": "Professional-README",
+      "image": "ReadMe.PNG",
+      "deploy": "https://github.com/TWFB29/Professional-README",
+      "githubPages": "https://github.com/TWFB29/Professional-README"
+      
     },
     {
-      "name": "Impulse Concerts",
-      "image": "ImpulseConcerts.png",
-      "liveLink": "https://meck512.github.io/projectOne/",
-      "githubRepo": "https://github.com/meck512/projectOne",
-      "technologies": ""
+      "name": "Budget Tracker",
+      "image": "BudgetTracker.PNG",
+      "deploy": "https://safe-hamlet-48343.herokuapp.com/",
+      "githubPages": "https://github.com/TWFB29/budgetTracker"
+      
     },
     {
-      "name": "Run Buddy",
-      "image": "Run-buddy-capture.jpg",
-      "liveLink": "https://meck512.github.io/run-buddy/",
-      "githubRepo": "https://github.com/meck512/run-buddy",
-      "technologies": ""
+      "name": "Regex",
+      "image": "Regex.PNG",
+      "deploy": "Regex_Tutorial.md (github.com)",
+      "githubPages": "Regex_Tutorial.md (github.com)"
+      
     },
     {
-      "name": "Horiseon Marketing",
-      "image": "Horiseon-capture.jpg",
-      "liveLink": "https://meck512.github.io/Horiseon_Business_Marketing/",
-      "githubRepo": "https://github.com/meck512/Horiseon_Business_Marketing",
-      "technologies": ""
+      "name": "Note Taker",
+      "image": "NoteTaker.PNG",
+      "deploy": "https://pure-brook-57622.herokuapp.com/",
+      "githubPages": "https://twfb29.github.io/Note_Taker"
+      
     },
     {
-      "name": "Robot Gladiators",
-      "image": "placeholder.png",
-      "liveLink": "http://google.com/",
-      "githubRepo": "https://github.com/meck512/robot-gladiators",
-      "technologies": ""
+      "name": "Password Generator",
+      "image": "webpage-password.png",
+      "deploy": "https://twfb29.github.io/password-generator/",
+      "githubPages": "TWFB29/password-generator (github.com)"
+      
     },
     {
-      "name": "Tash Sultana Fanpage",
-      "image": "Tash-sultana-capture.jpg",
-      "liveLink": "https://meck512.github.io/tash-sultana-fanpage/",
-      "githubRepo": "https://github.com/meck512/tash-sultana-fanpage",
-      "technologies": ""
+      "name": "weather dashboard",
+      "image": "screenshot.png",
+      "deploy": "https://twfb29.github.io/weather-dashboard/",
+      "githubPages": "https://github.com/TWFB29/weather-dashboard"
+      
     }
   ]
