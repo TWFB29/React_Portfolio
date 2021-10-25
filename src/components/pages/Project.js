@@ -2,10 +2,10 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card, Col } from 'react-bootstrap';
 
-function ProjectTemplate(props) {
+function ProjectCard(props) {
   return (
     <Col id={'deckCol'} xs={2} >
-      <Card className="my-2 bg-light text-dark" >
+      <Card className="my-2 bg-secondary text-dark" >
         <Card.Img variant="top" src={require(`../../assets/images/${props.image}`).default} />
         <Card.Body>
           <Card.Text>
@@ -19,4 +19,4 @@ function ProjectTemplate(props) {
   )
 }
 
-export default ProjectTemplate;
+export default ProjectCard;

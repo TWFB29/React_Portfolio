@@ -10,7 +10,7 @@ const Navigation = (props) => {
 
     <div className="Tabs">
       <Row>
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg="secondary" variant="dark">
           <Container>
             <Navbar.Brand href="#home">Taylor Black</Navbar.Brand>
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ProjectTemplate from './Project';
+import ProjectCard from './Project';
 import projects from '../../assets/projectData.json'
 import { Container, Row } from 'react-bootstrap'
 
@@ -15,7 +15,7 @@ function Portfolio() {
         {Array.from({ length: 1 }).map((_, idx) => (
           <Row>
             {projectList.map(project => (
-              <ProjectTemplate
+              <ProjectCard
                 name={project.name}
                 image={project.image}
                 deploy={project.deploy}

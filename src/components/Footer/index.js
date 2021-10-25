@@ -9,10 +9,10 @@ function Footer() {
   return (
     <div>
 
-      <Row className="bg-dark py-2" sm={12}>
+      <Row className="bg-secondary py-2" sm={12}>
         <div style={{ display: 'flex', justifyContent: 'space-around' }}>
-          <img href="https://github.com/TWFB29" src={gitHubLogo} style={{ width: "3%" }} alt="Github" />
-          <img href="https://www.linkedin.com/in/taylor-black-31540b211/" src={linkedInLogo} style={{ width: "3%" }} alt="LinkedIn" />
+          <img href="https://github.com/TWFB29" src={gitHubLogo} style={{ width: "5%" }} alt="Github" />
+          <img href="https://www.linkedin.com/in/taylor-black-31540b211/" src={linkedInLogo} style={{ width: "5%" }} alt="LinkedIn" />
         </div>
       </Row>
       
