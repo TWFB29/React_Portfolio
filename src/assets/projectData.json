@@ -40,5 +40,12 @@
       "deploy": "https://twfb29.github.io/weather-dashboard/",
       "githubPages": "https://github.com/TWFB29/weather-dashboard"
       
+    },
+    {
+      "name": "procrasta-date",
+      "image": "procrastaDate.PNG",
+      "deploy": "https://procrasta-date.herokuapp.com/",
+      "githubPages": "https://github.com/TWFB29/weather-dashboard"
+      
     }
   ]
